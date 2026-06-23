@@ -8,18 +8,24 @@ Análisis de los datos de un e-commerce Brasileño para ayudarle a entender el c
 
 🔍 1. Exploración y Preparación de Datos:
 
+
 ● Entendimiento de datos: 
   productos, clientes, transacciones, geolocalizaciones y reseñas.
+  
 ● Limpieza y preprocesamiento de datos: 
   manejo de valores faltantes, duplicados, y corrección de formatos.
+  
 ● Integración de datos: 
   consolidación de múltiples archivos en un conjunto de datos coherente para análisis.
 
 📑 2. Análisis Exploratorio de Datos (EDA):
+
 ● Análisis descriptivo: 
   estadísticas resumidas, distribuciones de variables clave.
+  
 ● Análisis de tendencias de ventas:
   temporal (mensual/año), por categoría de producto, y geográfica.
+  
 ● Comportamiento del cliente: 
   segmentación basada en la frecuencia de compra, valor del ticket promedio,
   y categorías de productos preferidas.
