@@ -1,4 +1,5 @@
 📁 DESCRIPCIÓN DEL PROYECTO
+
 Análisis de los datos de un e-commerce Brasileño para ayudarle a entender el comportamiento de los clientes, tendencias de ventas, y el nivel de satisfacción de sus clientes basada en sus reseñas. Tras un análisis exhaustivo de todos sus datos, habrá que implementar un modelo de análisis de sentimientos ya entrenado (pudiendo usar fuentes como HuggingFace para eso) para clasificar las reseñas de los clientes y visualizar los insights obtenidos del proyecto mediante un dashboard.
  
 
